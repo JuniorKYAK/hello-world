@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+Hi Humans!
+  Nothing is impossible to a willing heart.
